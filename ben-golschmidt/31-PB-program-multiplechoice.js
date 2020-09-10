@@ -222,5 +222,5 @@ console.log("")
 console.log("5. Differences")
 // // When should you use a switch statement versus an if else statement. Comment your answer in your js file.
 
-console.log("An if else statement should be used, when it is passed through more than one conditon i.e. if the variable fits between numbers 1 to 10, etc.")
-console.log("A switch statement should be used when there is only only one conditon/comparison to be met, othwerise the program will have to have a case for every potential outcome (as shown in question 4).")
+// An if else statement should be used, when it is passed through more than one conditon i.e. if the variable fits between numbers 1 to 10, etc.
+// A switch statement should be used when there is only only one conditon/comparison to be met, othwerise the program will have to have a case for every potential outcome (as shown in question 4).
